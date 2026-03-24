@@ -1,0 +1,6 @@
+# EthRecover - Ethereum Private Key Recovery Tool
+# Install: pip install -r requirements.txt
+
+eth-account>=0.11.0
+tqdm>=4.66.0
+cryptography>=42.0.0
